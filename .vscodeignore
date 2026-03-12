@@ -6,3 +6,9 @@ node_modules/**
 tsconfig.json
 pnpm-lock.yaml
 **/*.map
+images/icon.svg
+.env
+.env.*
+.playwright-mcp/**
+tmp/**
+plans/**
