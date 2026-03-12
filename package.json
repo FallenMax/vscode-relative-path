@@ -3,7 +3,7 @@
   "displayName": "File Path Inserter",
   "description": "Pick any file and insert its path at the cursor — relative, workspace-relative, or absolute.",
   "version": "0.1.0",
-  "publisher": "REPLACE_WITH_YOUR_PUBLISHER_ID",
+  "publisher": "aspect-tools",
   "icon": "images/icon.png",
   "engines": {
     "vscode": "^1.74.0"
